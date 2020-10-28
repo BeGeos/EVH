@@ -29,7 +29,7 @@ VALUES (1,'Black Sabbath',2),
        (8,'Alanis Morisette',5),
        (9,'My Chemical Romance',6),
        (10,'Green Day',4),
-       (11,'Guns & Roese',2);
+       (11,'Guns & Roses',2);
 
 DROP DATABASE IF EXISTS VanHalen;
 CREATE DATABASE VanHalen;
